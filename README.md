@@ -1,6 +1,6 @@
 # Desafio Alura - Curso Pandas: Conhecendo a Biblioteca
 
-# Desafio - Alunos Aprovados 1
+# Desafio 1  - Alunos Aprovados
 
 1) Verifique se a base de dados possui dados nulos e, caso tenha, realize o tratamento desses dados nulos da forma que achar mais coerente com a situação.
 
@@ -16,7 +16,7 @@
 
 
 
-# Desafio - Alunos Aprovados 2
+# Desafio 2 - Alunos Aprovados 2
 
 1) Os alunos participaram de uma atividade extracurricular e ganharam pontos extras. Esses pontos extras correspondem a 40% da nota atual de cada um deles. Com base nisso, crie uma coluna chamada "Pontos_extras" que contenha os pontos extras de cada aluno, ou seja, 40% da nota atual deles.
 
