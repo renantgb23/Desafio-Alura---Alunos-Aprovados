@@ -10,7 +10,7 @@
 
 4) Salve o DataFrame que possui apenas os alunos aprovados em um arquivo csv chamado "alunos_aprovados.csv".
 
-Extra: Ao conferir as notas dos alunos aprovados, notamos que algumas notas estavam incorretas. As alunas que tiraram nota 7.0, na verdade, tinham um ponto extra que não foi contabilizado. Sendo assim, substitua as notas 7.0 da base de dados por 8.0. Dica: pesquise pelo método replace.
+  Extra: Ao conferir as notas dos alunos aprovados, notamos que algumas notas estavam incorretas. As alunas que tiraram nota 7.0, na verdade, tinham um ponto extra que não foi contabilizado. Sendo assim, substitua as notas     7.0 da base de dados por 8.0. Dica: pesquise pelo método replace.
 
 
 
@@ -24,8 +24,8 @@ Extra: Ao conferir as notas dos alunos aprovados, notamos que algumas notas esta
 
 3) Como houve uma pontuação extra, alguns alunos que não tinham sido aprovados antes podem ter sido aprovados agora. Com base nisso, crie uma coluna chamada "Aprovado_final" com os seguintes valores:
 
-True: caso o aluno esteja aprovado (nota final deve ser maior ou igual a 6);
+  True: caso o aluno esteja aprovado (nota final deve ser maior ou igual a 6);
 
-False: caso o aluno esteja reprovado (nota final deve ser menor que 6).
+  False: caso o aluno esteja reprovado (nota final deve ser menor que 6).
 
 4) Faça uma seleção e verifique quais alunos não tinham sido aprovados anteriormente, mas foram aprovados após a soma dos pontos extras.
